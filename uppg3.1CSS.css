@@ -1,0 +1,38 @@
+table{
+    border-style: solid;
+    border-width: 1px;
+    text-align: center;
+    width: 50%;
+}
+table,th,td{
+    border-collapse: collapse;
+    border: 1px solid black;
+    padding: 8px;
+    font-family: "Arial";
+    font-size: 15px;
+}
+th{
+    background-color: grey;
+}
+caption{
+    caption-side:bottom;
+    font-size: 25px;
+    font-family: "Arial";
+    padding: 8px;
+}
+.width{
+    width: 25%;
+}
+.BgColor1{
+    color: #FFFFFF;
+    background-color: #5C4CC9;
+}
+.BgColor2{
+    background-color: #23C4F5;
+}
+.left{
+    text-align: left;
+}
+.right{
+    text-align: right;
+}
