@@ -1,0 +1,32 @@
+table,td {
+	width: 1000px;
+	padding: 100px;
+	margin: auto;
+}
+table {
+	border-collapse: collapse;
+	border: 2px solid;
+}
+caption {
+	caption-side: bottom;
+	font-family: "arial";
+	padding: 50px;
+	font-size: 50px;
+}
+.blue {
+	background-color: blue;
+}
+.red {
+	background-color: red;
+}
+.yellow {
+	background-color: yellow;
+}
+.lime {
+	background-color: lime;
+}
+.black {
+	background-color: black;
+}
+.border {
+	border: 2px solid black;
